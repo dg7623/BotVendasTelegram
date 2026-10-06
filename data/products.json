@@ -1,0 +1,11 @@
+# Lista de produtos iniciais do estoque
+DEFAULT_PRODUCTS = [
+    {"id": "amex", "name": "AMEX", "price": 90.00, "stock": 25, "description": "Premium access card."},
+    {"id": "black", "name": "BLACK", "price": 90.00, "stock": 18, "description": "Luxury selection card."},
+    {"id": "gold", "name": "GOLD", "price": 35.00, "stock": 42, "description": "Classic premium card."},
+    {"id": "platinum", "name": "PLATINUM", "price": 40.00, "stock": 36, "description": "Elite membership card."},
+    {"id": "standard", "name": "STANDARD", "price": 30.00, "stock": 54, "description": "Basic standard card."},
+    {"id": "infinite", "name": "INFINITE", "price": 90.00, "stock": 15, "description": "Exclusive infinite card."},
+    {"id": "corporate", "name": "CORPORATE", "price": 80.00, "stock": 20, "description": "Business corporate card."},
+    {"id": "classic", "name": "CLASSIC", "price": 25.00, "stock": 60, "description": "Traditional classic card."},
+]

@@ -1,2 +1,2 @@
-# BotVendasTelegram
-Bot de vendas automáticas para Telegram desenvolvido em Python
+python-telegram-bot==20.7
+python-dotenv==1.1.0
